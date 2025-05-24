@@ -1,5 +1,5 @@
 # Strings
-+ symbol is called as concatination
+"+" symbol is called as concatination
 
 **1. String Data Type in Python:**
 
