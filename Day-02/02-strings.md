@@ -1,5 +1,6 @@
 # Strings
 + symbol is called as concatination
+
 **1. String Data Type in Python:**
 
 - In Python, a string is a sequence of characters, enclosed within single (' '), double (" "), or triple (''' ''' or """ """) quotes.
