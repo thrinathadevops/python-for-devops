@@ -242,3 +242,6 @@ with open('example.txt', 'r') as file:
 ```
 
 
+#to run all scripts in a folder use shell script like 
+
+for i in 'ls' ; do python $i; done
